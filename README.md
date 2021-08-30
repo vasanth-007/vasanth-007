@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate with front-end developer...
 - 📫 How to reach me: [instagram @___steve_rogers__](https://www.instagram.com/invites/contact/?i=1n76d76fitdv9&utm_content=2uwo1px)
 - 📩 contact maild id: vasanth95009@gmail.com
-- 🔗linkedin :linkedin.com/in/vasantharaman-g-142274200
+- 🔗linkedin : linkedin.com/in/vasantharaman-g-142274200
 - ⚡ Fun fact: i do play vedio games alot...
 <img src="https://github-readme-stats.vercel.app/api?username=vasanth-007&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <h3 align="left">Languages and Tools:</h3>
